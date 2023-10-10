@@ -81,13 +81,6 @@
 <br>
 <br>
 <br>
-<p align="center" dir="auto">
-<a href="http://www.github.com/arifszn"><img src="./arifszn (Ariful Alam) · GitHub_files/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757" alt="arifszn&#39;s GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=arifszn&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=3382ed&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;"></a>
-<a href="http://www.github.com/arifszn"><img src="./arifszn (Ariful Alam) · GitHub_files/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=arifszn&amp;stroke=ffffff&amp;background=1c1917&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=ffffff&amp;currStreakLabel=0891b2&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" style="max-width: 100%;"></a>
- </p>
-</article>
-  </div>
-</div>
 
 <!---
 brenda-l-killingsworth/brenda-l-killingsworth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
